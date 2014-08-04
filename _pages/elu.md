@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elust
-permalink: /elu/
+permalink: elu/
 ---
 
 ##Elulugu
