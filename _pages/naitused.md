@@ -7,9 +7,11 @@ permalink: naitused/
 ##Isiknäitused
 
 1991
+
  - Graz, Austria
 
 1994
+
  - Tallinn
 
 1995
@@ -22,6 +24,7 @@ permalink: naitused/
  - Kilpkonna galerii, Viljandi
 
 1999 
+
  - Tampere Maja, Tartu
 
 2003 
