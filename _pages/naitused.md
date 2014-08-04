@@ -6,19 +6,19 @@ permalink: naitused/
 
 ##Isiknäitused
 
-1991 
+1991
  - Graz, Austria
 
-1994 
+1994
  - Tallinn
 
-1995 
+1995
  - Oberwart, Austria
 
-1996 
+1996
  - Tartu
 
-1996 
+1996
  - Kilpkonna galerii, Viljandi
 
 1999 
