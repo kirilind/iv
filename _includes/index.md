@@ -1,7 +1,7 @@
 ---
 
 title: Imme Viidalepp
-permalink: about
+
 lang: et
 ---
 
