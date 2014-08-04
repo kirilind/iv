@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imme Viidalepp
-permalink: {{ site.baseurl }}
+permalink: {{ site.baseurl }}/
 ---
 
 ##Imme Viidalepp
