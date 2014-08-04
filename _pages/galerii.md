@@ -4,4 +4,4 @@ title: Galerii
 permalink: galerii/
 ---
 
-{% include galerii.html %}
+{% include graafika.html %}
