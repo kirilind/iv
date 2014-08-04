@@ -5,6 +5,8 @@ permalink: graafika/
 lang: et
 ---
 
+##Graafika
+
 Väikegraafika on väga inimlähedane kunstižanr eriti siis, kui kujutatud motiividki pärinevad lähedasest ümbrusest. Tartu oli meelisobjekt, mis Viidalepa graafikas ilmutas end üpris sageli - vahel rangejooneliselt, kuid enamjaolt tundlikult maalilisena. Vaadete arhitektuurseid plaane markeerib graafiline joon, kuid heletumeduse pinnad ning akvatinta valgustähnid loovad ümbruse sumedat õhustikku ja looduslikku tausta. Erilaadse õrnusega on visandatud mitmed jõevaated.
 
 Graafika olulisi pärusmaid on eksliibrisekunst. Viidalepa pärandisse kuulub umbes sadakond selle ala väikest teost. Enamasti on need loodud pildilise komponeeringuga. Koondavalt mahuka tööna valmisid aastatel 1997 - 2002 neli Tartu vaadetega eksliibriste mappi, mis moodustavad tervikliku sarja ja sisaldavad ilmselt ka tema miniatuursema graafika kõige peenema koega töid.
