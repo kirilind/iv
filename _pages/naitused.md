@@ -2,11 +2,12 @@
 layout: default
 title: Näitused
 permalink: naitused/
+lang: et
 ---
 
 ##Isiknäitused
 
-###1991
+1991
 
 - Graz, Austria
 
@@ -71,7 +72,7 @@ permalink: naitused/
 - Tartu kunsti esindusnäitus, Tampere, Soome
 - Tartu kunsti aastalõpunäitus, Tartu Kunstimaja
 
-###2003
+2003
 
 - In Graafika, Linnagalerii, Pärnu
 - Rahvusvaheline minigraafika konkurss Lessedra-2003, Sofia, Bulgaaria
@@ -79,6 +80,7 @@ permalink: naitused/
 - Rahvusvaheline graafikanäitus, Vilnius, Leedu
 - Rahvusvaheline eksliibrisenäitus, Rijeka, Horvaatia
 
-###2004
+2004
 
 - XIII rahvusvahelise graafikatriennaali rühmanäitus, Soome Instituut, Tallinn 
+
