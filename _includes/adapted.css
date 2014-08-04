@@ -1,5 +1,6 @@
-@import url(http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cerulean/bootstrap.min.css?lskg)
+
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cerulean/bootstrap.min.css?lskg);
 
 body {
   padding-top:50px;
