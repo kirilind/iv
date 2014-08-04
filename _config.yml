@@ -1,7 +1,7 @@
 markdown:    kramdown
+baseurl:     /iv
 
 google_analytics_id: UA-16154388-1
-
 domain:      viidalepp.org
 
 collections:
