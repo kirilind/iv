@@ -8,20 +8,20 @@ permalink: naitused/
 
 1991
 
- - Graz, Austria
+- Graz, Austria
 
 1994
 
- - Tallinn
+- Tallinn
 
 1995
- - Oberwart, Austria
+- Oberwart, Austria
 
 1996
- - Tartu
+- Tartu
 
 1996
- - Kilpkonna galerii, Viljandi
+- Kilpkonna galerii, Viljandi
 
 1999 
 
