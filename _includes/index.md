@@ -1,10 +1,3 @@
----
-
-title: Imme Viidalepp
-
-lang: et
----
-
 ##Imme Viidalepp
 
 Imme Viidalepp (16.04.1947 – 7.04.2006) oli graafik, Tartu Lastekunstikooli graafika- ja kirjakunstiõpetaja ning töötas pikka aega ka Tartu Ülikooli kunstnikuna. Imme Viidalepp on tuntud väikegraafika viljelejana, kuid lõi elu lõpuaastatel ka suuremõõtmelisi abstraktseid kompositsioone.
